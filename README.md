@@ -14,4 +14,4 @@ game.xml 파일 다운 완료
 # 사용법
 AI vs AI -> ai.play 실행
 <br>
-AI vs human -> human_paly -> 
+AI vs human -> human_paly
