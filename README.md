@@ -1,4 +1,4 @@
-# 출처 : https://github.com/DahamChoi/omok
+출처 : https://github.com/DahamChoi/omok
 # omok
 오목 인공지능 제작 프로젝트
 
